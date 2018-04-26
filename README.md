@@ -1,2 +1,0 @@
-# MLMOS
-Licenta
